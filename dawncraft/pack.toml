@@ -1,0 +1,12 @@
+name = "Dawncraft"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ed6bdc5d0b311f3dedd19687031fe03cfa9378ca45cb24841030893e4e093c4a"
+
+[versions]
+forge = "40.2.9"
+minecraft = "1.18.2"
